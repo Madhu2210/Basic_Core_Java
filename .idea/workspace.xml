@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d1b26b-1841-4a65-bb56-8a8a2d46c2ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridglabz/basiccore/LeapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LeapYear">
+  <component name="RunManager" selected="Application.HarmonicNumber">
     <configuration name="FlipCoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.FlipCoin" />
       <module name="FunctionalPrograms" />
@@ -49,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.LeapYear" />
+    <configuration name="HarmonicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.HarmonicNumber" />
       <module name="FunctionalPrograms" />
       <extension name="coverage">
         <pattern>
@@ -64,7 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.HarmonicNumber" />
         <item itemvalue="Application.FlipCoin" />
       </list>
     </recent_temporary>
