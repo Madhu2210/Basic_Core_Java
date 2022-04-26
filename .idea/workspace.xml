@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1d1b26b-1841-4a65-bb56-8a8a2d46c2ce" name="Changes" comment="" />
+    <list default="true" id="b1d1b26b-1841-4a65-bb56-8a8a2d46c2ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,22 +34,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VowelConsonant">
+  <component name="RunManager" selected="Application.ThreeNumbers">
     <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.EvenOrOdd" />
-      <module name="FunctionalPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridglabz.basiccore.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.Factors" />
       <module name="FunctionalPrograms" />
       <extension name="coverage">
         <pattern>
@@ -85,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.ThreeNumbers" />
+      <module name="FunctionalPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridglabz.basiccore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VowelConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.VowelConsonant" />
       <module name="FunctionalPrograms" />
@@ -100,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeNumbers" />
         <item itemvalue="Application.VowelConsonant" />
         <item itemvalue="Application.EvenOrOdd" />
         <item itemvalue="Application.SwapNumbers" />
         <item itemvalue="Application.Quotient" />
-        <item itemvalue="Application.Factors" />
       </list>
     </recent_temporary>
   </component>
