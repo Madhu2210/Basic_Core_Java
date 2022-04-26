@@ -32,9 +32,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwapNumbers">
-    <configuration name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.Factors" />
+  <component name="RunManager" selected="Application.EvenOrOdd">
+    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.EvenOrOdd" />
       <module name="FunctionalPrograms" />
       <extension name="coverage">
         <pattern>
@@ -46,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlipCoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.FlipCoin" />
+    <configuration name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridglabz.basiccore.Factors" />
       <module name="FunctionalPrograms" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenOrOdd" />
         <item itemvalue="Application.SwapNumbers" />
         <item itemvalue="Application.Quotient" />
         <item itemvalue="Application.Factors" />
         <item itemvalue="Application.HarmonicNumber" />
-        <item itemvalue="Application.FlipCoin" />
       </list>
     </recent_temporary>
   </component>
